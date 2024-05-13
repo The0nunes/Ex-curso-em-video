@@ -1,1 +1,1 @@
-# Ex-curso-em-video
+Exercícios do curso em vídeo, canal do professor Guanabara
